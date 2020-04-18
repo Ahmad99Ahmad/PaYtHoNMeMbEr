@@ -1,7 +1,7 @@
 # FORK AT YOUR OWN RISK
-# Documentation/Guide, visit [How2Techy](https://how2techy.com/x-tra-userbot-plugin-guide-part1/)
+# Documentation/Guide, visit 
 # Installing
-Join https://t.me/joinchat/AAAAAEwLzFpzfwgvmSBRVQ for updates and tuts
+Join [PaythonMembEr](https://t.me/joinchat/AAAAAEwLzFpzfwgvmSBRVQ) for updates and tuts
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
