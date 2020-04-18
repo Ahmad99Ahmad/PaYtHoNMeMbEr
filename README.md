@@ -1,5 +1,5 @@
 # FORK AT YOUR OWN RISK
-# Documentation/Guide, visit 
+# Documentation/Guide, visit [PaythonMembEr](https://t.me/joinchat/AAAAAEwLzFpzfwgvmSBRVQ) for updates and tuts
 # Installing
 Join [PaythonMembEr](https://t.me/joinchat/AAAAAEwLzFpzfwgvmSBRVQ) for updates and tuts
 ### The Easy Way
